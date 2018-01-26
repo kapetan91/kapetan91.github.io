@@ -17,6 +17,8 @@ body, html {
   font-size: 16px;
   font-weight: 400;
   text-rendering: optimizeLegibility;
+  background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 
