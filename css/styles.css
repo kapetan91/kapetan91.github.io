@@ -49,8 +49,9 @@ section.s1, section.s2 {
   min-height: 100vh;
 }
 
-section.s4, {
+section.s4 {
   min-height: 70vh;
+  color: #fff;
 }
 
 section.s1 {
@@ -68,12 +69,10 @@ section.s1 {
     bottom: 0;
     right: 0; }
 
-section.s4{
-  color: #fff;
-}
 .container {
   max-width: 42rem;
-  margin: auto; }
+  margin: auto; 
+}
 
 .center {
   text-align: center; }
@@ -138,7 +137,7 @@ i.fa {
 
 
 img {
-  height: 5rem;
+  height: 2.5rem;
   margin: 0 1rem;
   transition: transform 0.25s; }
 
@@ -404,3 +403,5 @@ p {
     font-size: 2rem; }
   img:hover {
     animation: none; }
+
+
